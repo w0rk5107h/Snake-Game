@@ -3,7 +3,7 @@ A python snake game.
 
 This was a fun python project, a snake game, using turtle module.
 
-#Usage
+# Usage
 
 [A] Installing the requirements. (Linux)
     sudo apt-get install python3
