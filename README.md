@@ -13,8 +13,7 @@ This was a fun python project, a snake game, using turtle module.
 
 [B] Installing the requirements. (Windows)
 
-        python3 and pip3 can be installed from the python official website
-        pip install tkinter
+        python3 can be installed from the python official website
 
 [C] Playing
 
