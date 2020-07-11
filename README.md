@@ -1,4 +1,4 @@
-# TheNagini
+# Snake Game
 A python snake game.
 
 This was a fun python project, a snake game, using turtle module.
