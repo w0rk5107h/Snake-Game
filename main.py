@@ -65,7 +65,7 @@ if __name__ == '__main__':
         pen.hideturtle()
         pen.goto(0,250)
 
-        pen.write("T H E   N A G I N I",align='center',font=('Comic San',25,'normal'))
+        pen.write("S N A K E  G A M E",align='center',font=('Comic San',25,'normal'))
 
         head = turtle.Turtle()
         head.speed(0)
