@@ -52,7 +52,7 @@ if __name__ == '__main__':
         segments = []
 
         sg = turtle.Screen()
-        sg.title("The Nagini")
+        sg.title("Snake Game")
         sg.bgcolor("black")
         sg.setup(width=600, height=600)
         sg.tracer(0)
